@@ -1,0 +1,370 @@
+/*Home*/
+.dropdown-color {
+    background-color: #f0ad4e;
+}
+
+.apply-btn {
+    background-color: #f0ad4e;
+
+}
+.logo-img{
+    width: 5vw;  
+}
+
+@media(max-width: 600px){
+    .links {
+        background-color: #f0ad4e;
+
+        text-align-last: left;
+    }
+}
+
+@media(max-width: 600px){
+    .logos-img {
+        
+    }
+}
+
+
+/*Home*/
+
+
+
+.bg-image {
+  background-image: url('images/namal.jpg');
+    width: 100%;
+    height: calc(100vh);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    padding-left: 0px;
+    padding-right: 0px;
+    transition: height .1s ease;
+    overflow: hidden;
+}
+.slide-image {
+    width: 100%;
+    height: calc(100vh);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+.event-img{
+    width: 100%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-radius: 10px;
+}
+
+.main-pra{
+	font-size: 36px;
+	font-weight: 500;
+}
+
+.event-image {
+  background-image: url('images/bg4.jpeg');
+     width: 100%;
+    height: calc(100vh);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    padding-left: 0px;
+    padding-right: 0px;
+    transition: height .1s ease;
+    overflow: hidden;
+}
+.inner-heading{
+    margin-left: 80px;
+    font-weight: bold;
+    border-bottom: 4px solid #d1d3d4;
+    margin-bottom: 200px;
+}
+
+.bottom-image{
+    background-image: url('images/bottm-img.jpg');
+    width: 100%;
+    height: calc(50vh);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    padding-left: 0px;
+    padding-right: 0px;
+
+
+}
+
+/* .breadcrumb {
+
+} */
+.text-research {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-link{
+    margin-top: 5vw;
+    margin-bottom: 15px;
+    margin-left: 60px;
+    font-size: 18px;
+    line-height: 1.5;
+    text-decoration: none  !important;
+}
+.a {
+    text-decoration: none!important;
+}
+
+.about-para {
+    margin-left: 27vw; 
+    margin-right: 2vw;  
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+/*Contact Us */
+
+.btn-contact {
+    border-radius: 0px;
+    border: 0px;
+    padding: 0.8rem 2.4rem;
+    margin-top: 10px;
+    font-size: .9rem;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.form-control1 {
+    display: block;
+    width: 100%;
+    padding: 0.6rem 1rem;
+    font-size: .84rem;
+    letter-spacing: .1px;
+    line-height: 1.5;
+    color: #7f858ccc;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0px!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.course-btn {
+background-color: #f2a300;
+color: white;
+line-height: 40px;
+border-top-right-radius: 30px;
+border-color: green;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+  /* .affix + .container {
+    
+  } */
+.navbar-color {
+    background-color: #f0ad4e;
+   
+    
+
+}
+
+
+/*About us Files Responsive Quiries*/
+
+
+@media(max-width: 600px){
+    .links {
+        background-color: #f0ad4e;
+        margin-top: 0vw!important;
+        
+        
+    }
+}
+
+/* @media(max-width: 600px){
+    .admision-btn {
+
+} */
+
+@media(max-width: 600px) {
+    .about-image{
+    width: 118vw;
+    height: 230px;
+    padding-right: 24vw;
+    margin-left: 4vw !important;
+    }
+}
+
+@media(max-width: 600px) {
+    .about-para {
+    margin-left: 4vw !important;
+    }
+}
+
+@media(max-width: 600px){
+    .about-link {
+    padding-top: 10vw !important;
+    padding-left: 1vw;
+    background-color: #f0ad4e;
+    }
+}
+
+/*About Mesia Quries*/
+
+
+/*Faculty Media Quries*/
+
+@media(max-width: 600px){
+    .faculty-image {
+    margin-left: -1vw !important;
+    }
+}
+
+
+@media(max-width: 600px){
+    .faculty-img-f1 {
+    width: 300vw ;
+    }
+}
+
+
+/*Faculty Media Quries*/
+
+/*Faculty images Media Quries*/
+@media(max-width: 600px) {
+    .media-para {
+    margin-top: 25vh !important;
+     text-align: left !important;
+     margin-right: 10vw !important;
+
+    
+    }
+}
+@media(max-width: 600px) {
+    .media-image {
+        width: 50vw !important;
+        border-radius: 100px !important;
+    }
+}
+
+/*Faculty images Media Quries*/
+
+/*Contact Us Media Quries*/
+@media(max-width: 600px){
+    .contact-input {
+     width: 90vw !important;
+    }
+}
+
+@media(max-width: 600px){
+    .contact-btn {
+     margin-left: 75vw !important;
+    }
+}
+/*Contact Us Media Quries*/
+
+/*Chairman  Media Quries*/
+
+@media(max-width: 600px){
+    .chairman-img {
+     width: 90vw !important;
+    }
+}
+/*Chairman  Media Quries*/
+
+
+
+/*Board of Governors Media Quries*/
+@media(max-width: 600px){
+    .BOG5 {
+     margin-left: 1vw !important;
+     width: 95vw !important;
+     margin-left: 3vw !important;
+    }
+}
+/*Board of Governors Media Quries*/
+
+
+
+/*Senior Management Team  Media Quries*/
+@media(max-width: 600px){
+    .SMT3 {
+     width: 90vw !important;
+    }
+}
+/*Senior Management Team  Media Quries*/
+
+/*Application Form  Media Quries*/
+.application-btn {
+    grid-gap: 10vw;
+}
+
+.application-image{
+    width: 10vw;
+    height: 10vw;
+    margin-left: 
+    margin-right: 300vw;
+}
+
+
+@media(max-width: 600px){
+    .submit-btn {
+     margin-left: 60vw !important;
+    }
+}
+
+
+
+
+/*Application Form  Media Quries*/
+
+
+
+/*Footer*/
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.btn-floating {
+  
+    width: 47px;
+    height: 47px;
+}
+
+/*Footer */
+
+/*Footer Media Quries*/
+@media(max-width: 600px){
+    .footer-link {
+     text-align: center;
+     margin-bottom: 10vw;
+    }
+}
+
+@media(max-width: 600px){
+    .footer-heading {
+     font-size: 20px;
+     
+    }
+}
+
+
+/*Footer Media Quries*/
+
