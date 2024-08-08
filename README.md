@@ -6,11 +6,10 @@ open index.html
 Features
 - Responsive design
 - iterative website
-- ![web1](https://github.com/user-attachments/assets/c13963e3-8b8b-43eb-b20d-4fb1ca4e260d)
 
  
 1:. First Of All click on "APPLY Button" Then Show Admission Form below the image 
-
+- ![web1](https://github.com/user-attachments/assets/c13963e3-8b8b-43eb-b20d-4fb1ca4e260d)
 
 
 Fill All Personal Informaion click the next button
