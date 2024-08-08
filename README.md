@@ -1,4 +1,4 @@
-# Namal-Web
+# Namal University
 
 Open home.html in your browser
 open index.html
